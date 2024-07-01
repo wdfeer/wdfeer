@@ -1,5 +1,5 @@
-## Hi there
-i make stuff i guess
+## Hi there 👋
+I develop indie games, mods for Minecraft and Terraria!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdfeer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
